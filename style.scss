@@ -7,6 +7,9 @@
 
 @import "reset";
 @import "variables";
+@import "bourbon/bourbon";
+@import "grid-settings";
+@import "neat/neat";
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -24,10 +27,11 @@ body {
 }
 
 .container {
-  margin: 0 auto;
+  /*margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
-  width: 100%;
+  width: 100%;*/
+  @include outer-container;
 }
 
 h1, h2, h3, h4, h5, h6 {
