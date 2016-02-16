@@ -17,7 +17,18 @@ $white: #fff;
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
+$notosans: 'Noto Sans', sans-serif;
+$raleway: 'Raleway', sans-serif;
+$lato: 'Lato', sans-serif;
+$alegreya: 'Alegreya', serif;
+$sourcesanspro: 'Source Sans Pro', sans-serif;
+$museoslab: "museo-slab",serif;
+$poppins: 'Poppins', sans-serif;
+$merriweather: 'Merriweather', serif;
+$roboto-slab: 'Roboto Slab', serif;
+$crimson-text: 'Crimson Text', serif;
+$leitura: "leitura-news", serif;
+$garamond: "adobe-garamond-pro";
 
 // Mobile breakpoints
 @mixin mobile {

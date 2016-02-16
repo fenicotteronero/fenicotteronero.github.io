@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### More Information on Style Intelligence
 
-### More Information
+Created in 2016 in Aix-en-Provence. Style Intelligence is an International Menswear Relooking and Personal Shopping Service.
 
-A place to include any other types of information that you'd like to include about yourself.
+### About the founder Shamime Boodhoo.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+<a href="mailto:{{ site.email }}">{{ site.email }}</a>
