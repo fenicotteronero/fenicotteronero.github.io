@@ -8,7 +8,7 @@ permalink: /about/
 
 Created in 2016 in Aix-en-Provence. Style Intelligence is an International Menswear Relooking and Personal Shopping Service.
 
-### About the founder Shamime Boodhoo.
+### About the founder.
 
 ### Contact me
 
